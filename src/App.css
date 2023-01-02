@@ -89,4 +89,20 @@ h2 {
   color: grey;
 }
 
+.filters{
+  display: flex;
+  justify-content: space-around;
+}
 
+.buttons{
+  background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin-top: 10px;
+}
